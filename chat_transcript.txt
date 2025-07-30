@@ -1,0 +1,10 @@
+User: My blood pressure was 145/95 this morning—should I be worried?
+Chatbot: Based on Canadian guidelines, a reading of 145/95 mmHg is considered elevated and may indicate hypertension. While one reading is not always dangerous, it's important to monitor it and speak to a healthcare provider if it remains high. Please remember, I am not a doctor.
+
+User: What kind of foods should I avoid to help lower my blood pressure?
+Chatbot: You should limit salty and processed foods such as:
+- Deli meats (ham, salami)
+- Canned soups and frozen dinners
+- Chips, pretzels, fast food
+- Sauces like soy or BBQ sauce
+Instead, consider the DASH diet which emphasizes fruits, vegetables, and low-sodium foods.

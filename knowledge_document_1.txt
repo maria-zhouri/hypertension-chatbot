@@ -1,0 +1,14 @@
+
+
+Definition of Hypertension:
+- Normal: ≤ 120/80 mm Hg
+- Elevated: 121–134/80–84 mm Hg
+- High Risk: ≥ 135/85 mm Hg
+- Hypertension: ≥ 140/90 mm Hg (or ≥ 130/80 mm Hg for high-risk individuals or those with diabetes)
+
+Treatment:
+- Initiate treatment at ≥ 140/90 mm Hg
+- For high-risk patients: begin at 130–139/80–89 mm Hg
+- Target: < 130 mm Hg systolic if tolerated
+
+Note: Chatbot should never provide diagnoses. Refer to these numbers only for general awareness.
